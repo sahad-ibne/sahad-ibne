@@ -1,17 +1,21 @@
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-![Static Badge](https://img.shields.io/badge/:badgeContent)
 # Hi 👋, I'm Sahad Ibne Saiful  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
+![Profile views](https://komarev.com/ghpvc/?username=sahad-ibne&style=flat-square)
+![Static Badge](https://img.shields.io/badge/Status-Active-brightgreen)
+
 ---
 
-## 👨💻 About Me  
-I'm a passionate to full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
+## 👨‍💻 About Me  
+I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
 Currently, I'm focused on expanding my knowledge in **MongoDB** and **SQL** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
 
 ---
 
 ## 🛠️ Tech Stack  
+
+### **Skills Overview**
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=6)](https://skillicons.dev)
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -32,8 +36,8 @@ Currently, I'm focused on expanding my knowledge in **MongoDB** and **SQL** whil
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sahad-ibne-99491b324?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)]([https://yourportfolio.com/](https://sahad-iiuc.github.io/my-website/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahad-ibne-99491b324)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://sahad-iiuc.github.io/my-website/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:binsahad91@gmail.com)
 
 ---
@@ -42,8 +46,4 @@ Currently, I'm focused on expanding my knowledge in **MongoDB** and **SQL** whil
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahad-iiuc&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahad-iiuc&layout=compact&theme=default) |
