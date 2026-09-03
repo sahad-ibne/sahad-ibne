@@ -34,13 +34,13 @@
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages & Frontend:
-[![Frontend Technologies](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap)](https://github.com/sahad-ibne)
+[![Frontend Technologies](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,c,c++,python,typescript)](https://github.com/sahad-ibne)
 
 ### Backend & Database:
-[![Backend & Database](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres)](https://github.com/sahad-ibne)
+[![Backend & Database](https://skillicons.dev/icons?i=nodejs,mongodb,mysql)](https://github.com/sahad-ibne)
 
 ### Tools & Platforms:
-[![Tools & Platforms](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel)](https://github.com/sahad-ibne)
+[![Tools & Platforms](https://skillicons.dev/icons?i=git,github,vscode)](https://github.com/sahad-ibne)
 
 <br/>
 
@@ -57,10 +57,4 @@
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
-
----
-
-<!--- visit count --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahad-ibne&label=Profile%20views&color=0e75b6&style=flat" alt="sahad-ibne" /> </p>
